@@ -9,7 +9,7 @@ plugins {
 
 android {
     namespace = "com.project.tictactoe"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.project.tictactoe"
